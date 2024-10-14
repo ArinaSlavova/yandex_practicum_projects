@@ -7,7 +7,7 @@
 ---
 2) [Событийная аналитика: Анализ пользовательского поведения в мобильном приложении](https://github.com/ArinaSlavova/yandex_practicum_projects/blob/main/%D0%A1%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D0%B8%CC%86%D0%BD%D0%B0%D1%8F%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0.%20AB-%D1%82%D0%B5%D1%81%D1%82.ipynb)
 
-*Навыки:* A/B-тестирование, Python, Pandas, Matplotlib, Seaborn, событийная аналитика, продуктовые метрики, Plotly, проверка статистических гипотез
+*Навыки:* A/B-тестирование, Python, Pandas, Matplotlib, событийная аналитика, продуктовые метрики, Plotly, проверка статистических гипотез
 
 ---
 
